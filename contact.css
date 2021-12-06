@@ -1,0 +1,87 @@
+.div1 {
+  background: #265891;
+  border-radius: 30px;
+  padding-top: 15px;
+  height: 60px;
+}
+#logo {
+  border-radius: 10px;
+  float: left;
+  width: 150px;
+  height: auto;
+  margin-left: 20px;
+}
+.div1 h1 {
+  font-family: Ink free;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  padding-right: 150px;
+  color: white;
+}
+.div2 {
+  background: orange;
+  width: 200px;
+  list-style: none;
+  border-radius: 10px;
+  font-family: ink free;
+  padding-top: 10px;
+  text-align: center;
+}
+.div2 a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.div2 a:hover {
+  background: #e2a624;
+  border-radius: 10px;
+}
+.div3 {
+  background: orange;
+  width: 200px;
+  list-style: none;
+  border-radius: 10px;
+  font-family: ink free;
+  padding-top: 10px;
+  text-align: center;
+}
+.div3 a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.div3 a:hover {
+  background: #e2a624;
+  border-radius: 10px;
+}
+.div4 {
+  background: orange;
+  width: 200px;
+  list-style: none;
+  border-radius: 10px;
+  font-family: ink free;
+  padding-top: 10px;
+  text-align: center;
+}
+.div4 a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.div4 a:hover {
+  background: #e2a624;
+  border-radius: 10px;
+}
+.divfloater {
+  float: right;
+}
